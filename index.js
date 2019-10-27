@@ -3,4 +3,3 @@
 var multiply = num1 * num2
 
 var random = Math.random()+1
-
