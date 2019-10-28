@@ -6,3 +6,5 @@ var multiply = num1*num2
 
 
 var random = Math.ceil(Math.random())
+
+var mod= 12%%4
