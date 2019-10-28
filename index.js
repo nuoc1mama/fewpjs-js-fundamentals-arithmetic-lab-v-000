@@ -1,5 +1,7 @@
 
 // Write your code here
-var multiply = num1 * num2
+var multiply = 9*9
 
 var random = Math.floor(Math.random() * 10) + 1
+
+var mod =
